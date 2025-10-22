@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: c7c8dfebafd8dea43bc5baf189d38b45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2346938914157012455
+    second: Desierto normal sprite 1_0
+  - first:
+      213: -6228285914367312152
+    second: Desierto normal sprite 1_1
+  - first:
+      213: -6252846040057395457
+    second: Desierto normal sprite 1_2
+  - first:
+      213: -7826201970800343271
+    second: Desierto normal sprite 1_3
+  - first:
+      213: -8940189907145258433
+    second: Desierto normal sprite 1_4
+  - first:
+      213: -7567006746212662261
+    second: Desierto normal sprite 1_5
+  - first:
+      213: 6323262706371057606
+    second: Desierto normal sprite 1_6
+  - first:
+      213: -4859562165415806282
+    second: Desierto normal sprite 1_7
+  - first:
+      213: 2429387290330507790
+    second: Desierto normal sprite 1_8
+  - first:
+      213: 3609497448687931799
+    second: Desierto normal sprite 1_9
+  - first:
+      213: -1094449529496539606
+    second: Desierto normal sprite 1_10
+  - first:
+      213: 7135563015369671557
+    second: Desierto normal sprite 1_11
+  - first:
+      213: 8694016170277209736
+    second: Desierto normal sprite 1_12
+  - first:
+      213: 9172407800894559779
+    second: Desierto normal sprite 1_13
+  - first:
+      213: -1972193406078026658
+    second: Desierto normal sprite 1_14
+  - first:
+      213: -8949114993322160121
+    second: Desierto normal sprite 1_15
+  - first:
+      213: -1853946930785756001
+    second: Desierto normal sprite 1_16
+  - first:
+      213: 5179658957578462898
+    second: Desierto normal sprite 1_17
+  - first:
+      213: -5031428889829159280
+    second: Desierto normal sprite 1_18
+  - first:
+      213: 7422484586622595242
+    second: Desierto normal sprite 1_19
+  - first:
+      213: -2437263365654663118
+    second: Desierto normal sprite 1_20
+  - first:
+      213: 4560194301503521385
+    second: Desierto normal sprite 1_21
+  - first:
+      213: -7312103046525729911
+    second: Desierto normal sprite 1_22
+  - first:
+      213: 6214689271515030367
+    second: Desierto normal sprite 1_23
+  - first:
+      213: 3408496067395564604
+    second: Desierto normal sprite 1_24
+  - first:
+      213: -585209078012616418
+    second: Desierto normal sprite 1_25
+  - first:
+      213: -7129411315680276738
+    second: Desierto normal sprite 1_26
+  - first:
+      213: -4218421462366702146
+    second: Desierto normal sprite 1_27
+  - first:
+      213: -8163119886375416991
+    second: Desierto normal sprite 1_28
+  - first:
+      213: 2111277428519823421
+    second: Desierto normal sprite 1_29
+  - first:
+      213: 3510250206435371640
+    second: Desierto normal sprite 1_30
+  - first:
+      213: 2917354579305065037
+    second: Desierto normal sprite 1_31
+  - first:
+      213: 3457975860166430194
+    second: Desierto normal sprite 1_32
+  - first:
+      213: -4558935564576290164
+    second: Desierto normal sprite 1_33
+  - first:
+      213: -1188484389426418349
+    second: Desierto normal sprite 1_34
+  - first:
+      213: 6856739380346298804
+    second: Desierto normal sprite 1_35
+  - first:
+      213: 4975109882024078510
+    second: Desierto normal sprite 1_36
+  - first:
+      213: -8190489866985910170
+    second: Desierto normal sprite 1_37
+  - first:
+      213: 4468777006523306380
+    second: Desierto normal sprite 1_38
+  - first:
+      213: 2761462251813017885
+    second: Desierto normal sprite 1_39
+  - first:
+      213: -1210089059025456058
+    second: Desierto normal sprite 1_40
+  - first:
+      213: 5275131865358976566
+    second: Desierto normal sprite 1_41
+  - first:
+      213: -8387670004928076384
+    second: Desierto normal sprite 1_42
+  - first:
+      213: -2922442192016908622
+    second: Desierto normal sprite 1_43
+  - first:
+      213: -3906164650006652233
+    second: Desierto normal sprite 1_44
+  - first:
+      213: 8775964015458567743
+    second: Desierto normal sprite 1_45
+  - first:
+      213: -8315463586149905710
+    second: Desierto normal sprite 1_46
+  - first:
+      213: 1125653950545927276
+    second: Desierto normal sprite 1_47
+  - first:
+      213: -8874865419065846351
+    second: Desierto normal sprite 1_48
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 385
+        width: 206
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a51200e7ffd6fd0800000000000000
+      internalID: -2346938914157012455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 463
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee3192b5fea099a0800000000000000
+      internalID: -6228285914367312152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 463
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6cb23d7ad6939a0800000000000000
+      internalID: -6252846040057395457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 447
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917cbf5c5ceb36390800000000000000
+      internalID: -7826201970800343271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 432
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a031885a01ee380800000000000000
+      internalID: -8940189907145258433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 384
+        width: 243
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04820fb4779cf690800000000000000
+      internalID: -7567006746212662261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 292
+        width: 467
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7d8baededb0c750800000000000000
+      internalID: 6323262706371057606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 60
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba767625fd5f8cb0800000000000000
+      internalID: -4859562165415806282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 254
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aaffd7edae6b120800000000000000
+      internalID: 2429387290330507790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 232
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79119be3ec2871230800000000000000
+      internalID: 3609497448687931799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 266
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee3c993fbbfc0f0800000000000000
+      internalID: -1094449529496539606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 257
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5834683b1cc960360800000000000000
+      internalID: 7135563015369671557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 257
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88600ecd4a957a870800000000000000
+      internalID: 8694016170277209736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 268
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32697532c40fa4f70800000000000000
+      internalID: 9172407800894559779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 218
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf95adb8c51a4e0800000000000000
+      internalID: -1972193406078026658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 227
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70019e8f35b5ec380800000000000000
+      internalID: -8949114993322160121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 242
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd61ec6157546e0800000000000000
+      internalID: -1853946930785756001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_17
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 237
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b662200168d1e740800000000000000
+      internalID: 5179658957578462898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 222
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e48151516cc2ab0800000000000000
+      internalID: -5031428889829159280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 224
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0b370d766f10760800000000000000
+      internalID: 7422484586622595242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 106
+        width: 61
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230b412d1e91d2ed0800000000000000
+      internalID: -2437263365654663118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 192
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c0e76e80194f30800000000000000
+      internalID: 4560194301503521385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 208
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98348c63501368a90800000000000000
+      internalID: -7312103046525729911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 128
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a51237f20f3650800000000000000
+      internalID: 6214689271515030367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 194
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34bd634d196d4f20800000000000000
+      internalID: 3408496067395564604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 184
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1169b1b17be0e7f0800000000000000
+      internalID: -585209078012616418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 139
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe0a3f7e2e3f0d90800000000000000
+      internalID: -7129411315680276738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 145
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5bfb6b7082575c0800000000000000
+      internalID: -4218421462366702146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b8aa1a6b5c6be80800000000000000
+      internalID: -8163119886375416991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 69
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38693d92a3cc4d10800000000000000
+      internalID: 2111277428519823421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6253f6f9e6b030800000000000000
+      internalID: 3510250206435371640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 67
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a665778868c7820800000000000000
+      internalID: 2917354579305065037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd881349b23dff20800000000000000
+      internalID: 3457975860166430194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 67
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a098f12486bb0c0800000000000000
+      internalID: -4558935564576290164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 67
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d2423aeb7a18fe0800000000000000
+      internalID: -1188484389426418349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_35
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 67
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b129fa4328082f50800000000000000
+      internalID: 6856739380346298804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 67
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaca49414142b0540800000000000000
+      internalID: 4975109882024078510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_37
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 67
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6605edd6cd8855e80800000000000000
+      internalID: -8190489866985910170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 32
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815146c209440e30800000000000000
+      internalID: 4468777006523306380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1917f3894fa25620800000000000000
+      internalID: 2761462251813017885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 15
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64473328966e43fe0800000000000000
+      internalID: -1210089059025456058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_41
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 15
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636c0129b78053940800000000000000
+      internalID: 5275131865358976566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 15
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5201ff192099b80800000000000000
+      internalID: -8387670004928076384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 15
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed7346f466177d0800000000000000
+      internalID: -2922442192016908622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba5a2252f38ac9c0800000000000000
+      internalID: -3906164650006652233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 15
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36c40766cc7ac970800000000000000
+      internalID: 8775964015458567743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dac6d4fce9899c80800000000000000
+      internalID: -8315463586149905710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 15
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c1e46dd402f9f00800000000000000
+      internalID: 1125653950545927276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto normal sprite 1_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 15
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b59e232ce426d480800000000000000
+      internalID: -8874865419065846351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

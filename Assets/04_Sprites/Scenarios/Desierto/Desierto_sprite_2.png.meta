@@ -1,0 +1,1045 @@
+fileFormatVersion: 2
+guid: 6a9950d1b6b2b1648b5238c2e894964f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6051887675344363802
+    second: Desierto_sprite_2_0
+  - first:
+      213: -485707893760268565
+    second: Desierto_sprite_2_1
+  - first:
+      213: 4246593230625362859
+    second: Desierto_sprite_2_2
+  - first:
+      213: 7147067580718118751
+    second: Desierto_sprite_2_3
+  - first:
+      213: 4190465552701811346
+    second: Desierto_sprite_2_4
+  - first:
+      213: -412646014287278759
+    second: Desierto_sprite_2_5
+  - first:
+      213: 5886192387427565680
+    second: Desierto_sprite_2_6
+  - first:
+      213: -9093482111913164899
+    second: Desierto_sprite_2_7
+  - first:
+      213: 7227155510744588693
+    second: Desierto_sprite_2_8
+  - first:
+      213: -8115508577642967135
+    second: Desierto_sprite_2_9
+  - first:
+      213: -4201936787060320944
+    second: Desierto_sprite_2_10
+  - first:
+      213: 366008556763950727
+    second: Desierto_sprite_2_11
+  - first:
+      213: 5706716423252399726
+    second: Desierto_sprite_2_12
+  - first:
+      213: -7281832704845809911
+    second: Desierto_sprite_2_13
+  - first:
+      213: -594510209702077608
+    second: Desierto_sprite_2_14
+  - first:
+      213: 1491636221846915335
+    second: Desierto_sprite_2_15
+  - first:
+      213: 8856270229965302987
+    second: Desierto_sprite_2_16
+  - first:
+      213: 1766488236358345212
+    second: Desierto_sprite_2_17
+  - first:
+      213: 3025871122005621901
+    second: Desierto_sprite_2_18
+  - first:
+      213: -8881806611680481694
+    second: Desierto_sprite_2_19
+  - first:
+      213: -2547493849671929217
+    second: Desierto_sprite_2_20
+  - first:
+      213: 8276550621309305778
+    second: Desierto_sprite_2_21
+  - first:
+      213: -2196037852108167947
+    second: Desierto_sprite_2_22
+  - first:
+      213: -8917968595528585529
+    second: Desierto_sprite_2_23
+  - first:
+      213: -6019460187479532066
+    second: Desierto_sprite_2_24
+  - first:
+      213: 5677589648312872102
+    second: Desierto_sprite_2_25
+  - first:
+      213: -8095299699538984035
+    second: Desierto_sprite_2_26
+  - first:
+      213: -3688793114731143445
+    second: Desierto_sprite_2_27
+  - first:
+      213: 2755403717341384131
+    second: Desierto_sprite_2_28
+  - first:
+      213: 4589362545176928890
+    second: Desierto_sprite_2_29
+  - first:
+      213: 5010647781119179015
+    second: Desierto_sprite_2_30
+  - first:
+      213: 3989844089074631440
+    second: Desierto_sprite_2_31
+  - first:
+      213: -2644300964478792570
+    second: Desierto_sprite_2_32
+  - first:
+      213: 226056393156224
+    second: Desierto_sprite_2_33
+  - first:
+      213: -152444313589633261
+    second: Desierto_sprite_2_34
+  - first:
+      213: -7226606193620934207
+    second: Desierto_sprite_2_35
+  - first:
+      213: -5390977124987303230
+    second: Desierto_sprite_2_36
+  - first:
+      213: 4823432669220421829
+    second: Desierto_sprite_2_37
+  - first:
+      213: -6443109172991254553
+    second: Desierto_sprite_2_38
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desierto_sprite_2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 395
+        width: 475
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eed88a3930630ca0800000000000000
+      internalID: -6051887675344363802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 240
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6e0d77e3b6249f0800000000000000
+      internalID: -485707893760268565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 240
+        width: 79
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d0093b0eeeea30800000000000000
+      internalID: 4246593230625362859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 240
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f96e091c7f2360800000000000000
+      internalID: 7147067580718118751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 285
+        width: 216
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a6d48d736872a30800000000000000
+      internalID: 4190465552701811346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 237
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d0d64e2acf54af0800000000000000
+      internalID: -412646014287278759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 158
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0708a3c3ac4ffa150800000000000000
+      internalID: 5886192387427565680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 160
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ffb04d2367dc180800000000000000
+      internalID: -9093482111913164899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 152
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591207a55a30c4460800000000000000
+      internalID: 7227155510744588693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 151
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af84f942fbef5f80800000000000000
+      internalID: -8115508577642967135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 151
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0559f9641c8bfa5c0800000000000000
+      internalID: -4201936787060320944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 149
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e2baad7d2541500800000000000000
+      internalID: 366008556763950727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 139
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66d8d9f954523f40800000000000000
+      internalID: 5706716423252399726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 122
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907f7d95cbbb1fa90800000000000000
+      internalID: -7281832704845809911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 128
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b5d573d10efb7f0800000000000000
+      internalID: -594510209702077608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7098a41ad3b53b410800000000000000
+      internalID: 1491636221846915335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 117
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce2f30adac7ea70800000000000000
+      internalID: 8856270229965302987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 115
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1ab0411b3d38810800000000000000
+      internalID: 1766488236358345212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 127
+        width: 68
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cf143f0cd0ef920800000000000000
+      internalID: 3025871122005621901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 106
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea11bc1fb7db480800000000000000
+      internalID: -8881806611680481694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 102
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72ffc647db75acd0800000000000000
+      internalID: -2547493849671929217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 87
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b30ea460f63cd270800000000000000
+      internalID: 8276550621309305778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 85
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e7c7653b1681e0800000000000000
+      internalID: -2196037852108167947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 82
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceed61dfc20d3480800000000000000
+      internalID: -8917968595528585529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 94
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd1da91ad4967ca0800000000000000
+      internalID: -6019460187479532066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_25
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 101
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acaf1834b9dace40800000000000000
+      internalID: 5677589648312872102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 92
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9307a260d7b7af80800000000000000
+      internalID: -8095299699538984035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee1b8ac436ceccc0800000000000000
+      internalID: -3688793114731143445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 46
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd8ce805192d3620800000000000000
+      internalID: 2755403717341384131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e0ca5be0b0bf30800000000000000
+      internalID: 4589362545176928890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_30
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 61
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70935300c95698540800000000000000
+      internalID: 5010647781119179015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 54
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0134c765f06ce5730800000000000000
+      internalID: 3989844089074631440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 17
+        width: 118
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cc40d684e8d4bd0800000000000000
+      internalID: -2644300964478792570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 13
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086630bd89dc00000800000000000000
+      internalID: 226056393156224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_34
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 41
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f267854b862edf0800000000000000
+      internalID: -152444313589633261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 14
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1269184ffe5bb90800000000000000
+      internalID: -7226606193620934207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_36
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 10
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca00e01ed66f25b0800000000000000
+      internalID: -5390977124987303230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c5eef47640f240800000000000000
+      internalID: 4823432669220421829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desierto_sprite_2_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 14
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9bce185a7596a0800000000000000
+      internalID: -6443109172991254553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
