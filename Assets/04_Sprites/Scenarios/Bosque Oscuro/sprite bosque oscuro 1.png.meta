@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 39c086098baaa554782691954b297e56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9106675793380927660
+    second: sprite bosque oscuro 1_0
+  - first:
+      213: 8051548171890300463
+    second: sprite bosque oscuro 1_1
+  - first:
+      213: 3757861061703832647
+    second: sprite bosque oscuro 1_2
+  - first:
+      213: -3229862106063811269
+    second: sprite bosque oscuro 1_3
+  - first:
+      213: -5501021000177760706
+    second: sprite bosque oscuro 1_4
+  - first:
+      213: 3071675575503738189
+    second: sprite bosque oscuro 1_5
+  - first:
+      213: 2185032969153694352
+    second: sprite bosque oscuro 1_6
+  - first:
+      213: -5462186849883941025
+    second: sprite bosque oscuro 1_7
+  - first:
+      213: 5735923473398584553
+    second: sprite bosque oscuro 1_8
+  - first:
+      213: -5387594780677968295
+    second: sprite bosque oscuro 1_9
+  - first:
+      213: -4156067720067494008
+    second: sprite bosque oscuro 1_10
+  - first:
+      213: -1743165956312323451
+    second: sprite bosque oscuro 1_11
+  - first:
+      213: 9174896009439423333
+    second: sprite bosque oscuro 1_12
+  - first:
+      213: -7657301054202727129
+    second: sprite bosque oscuro 1_13
+  - first:
+      213: -8812166744660465501
+    second: sprite bosque oscuro 1_14
+  - first:
+      213: -4241689370900859571
+    second: sprite bosque oscuro 1_15
+  - first:
+      213: 594947866721293094
+    second: sprite bosque oscuro 1_16
+  - first:
+      213: 5953957110123760078
+    second: sprite bosque oscuro 1_17
+  - first:
+      213: 8036842047646174584
+    second: sprite bosque oscuro 1_18
+  - first:
+      213: -1480947153778654946
+    second: sprite bosque oscuro 1_19
+  - first:
+      213: -4448124548798761019
+    second: sprite bosque oscuro 1_20
+  - first:
+      213: 1663964553117513140
+    second: sprite bosque oscuro 1_21
+  - first:
+      213: 1925176126709421246
+    second: sprite bosque oscuro 1_22
+  - first:
+      213: 7143112693360214565
+    second: sprite bosque oscuro 1_23
+  - first:
+      213: -3530005473046285056
+    second: sprite bosque oscuro 1_24
+  - first:
+      213: 285251658780915721
+    second: sprite bosque oscuro 1_25
+  - first:
+      213: 3669239204917353195
+    second: sprite bosque oscuro 1_26
+  - first:
+      213: 5318202311380473420
+    second: sprite bosque oscuro 1_27
+  - first:
+      213: -851872575294728033
+    second: sprite bosque oscuro 1_28
+  - first:
+      213: -1468598119683513405
+    second: sprite bosque oscuro 1_29
+  - first:
+      213: 8982518559038698161
+    second: sprite bosque oscuro 1_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 676
+        width: 99
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca86e158269616e70800000000000000
+      internalID: 9106675793380927660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 818
+        width: 970
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2697754768dcbf60800000000000000
+      internalID: 8051548171890300463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 676
+        width: 100
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7441122c9ba962430800000000000000
+      internalID: 3757861061703832647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 676
+        width: 100
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d429ee6893d23d0800000000000000
+      internalID: -3229862106063811269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 676
+        width: 102
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36c076cb8278a3b0800000000000000
+      internalID: -5501021000177760706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 676
+        width: 101
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45d42759a8c0aa20800000000000000
+      internalID: 3071675575503738189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_6
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 676
+        width: 100
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a4cec98ebc25e10800000000000000
+      internalID: 2185032969153694352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 502
+        width: 99
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f579bdbfff96234b0800000000000000
+      internalID: -5462186849883941025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 645
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e45fb242081a9f40800000000000000
+      internalID: 5735923473398584553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 502
+        width: 201
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ee0f7771b6b35b0800000000000000
+      internalID: -5387594780677968295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 502
+        width: 102
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc8eaad6ea256c0800000000000000
+      internalID: -4156067720067494008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 502
+        width: 100
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a23756cc70fc7e0800000000000000
+      internalID: -1743165956312323451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_12
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 502
+        width: 100
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b29c55f47c35f70800000000000000
+      internalID: 9174896009439423333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 502
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725b506e24dcbb590800000000000000
+      internalID: -7657301054202727129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 352
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a00bd805e4b580800000000000000
+      internalID: -8812166744660465501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 352
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4577e79dfd7225c0800000000000000
+      internalID: -4241689370900859571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 311
+        width: 77
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6239ccfbeeda14800800000000000000
+      internalID: 594947866721293094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 322
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec986dc3274b0a250800000000000000
+      internalID: 5953957110123760078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 327
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d8fd5e249988f60800000000000000
+      internalID: 8036842047646174584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_19
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 334
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c5e7f86e927be0800000000000000
+      internalID: -1480947153778654946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_20
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 352
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b7204a461542c0800000000000000
+      internalID: -4448124548798761019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_21
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 319
+        width: 92
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5396be1f6971710800000000000000
+      internalID: 1663964553117513140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 317
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4d39abc7997ba10800000000000000
+      internalID: 1925176126709421246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 186
+        width: 96
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c156162f612360800000000000000
+      internalID: 7143112693360214565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_24
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 202
+        width: 94
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00534eb99b6e20fc0800000000000000
+      internalID: -3530005473046285056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 195
+        width: 241
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083a315fda65f300800000000000000
+      internalID: 285251658780915721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 166
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea190dcd91cbe230800000000000000
+      internalID: 3669239204917353195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_27
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 162
+        width: 93
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c469e7d33dc0ec940800000000000000
+      internalID: 5318202311380473420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_28
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 198
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9819abf76a8d24f0800000000000000
+      internalID: -851872575294728033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_29
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 196
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c325768acd7e9be0800000000000000
+      internalID: -1468598119683513405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite bosque oscuro 1_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 967
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2fadbb90158ac70800000000000000
+      internalID: 8982518559038698161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

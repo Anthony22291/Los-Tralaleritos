@@ -15,15 +15,15 @@ D:/ProyectoGitHub/Los-Tralaleritos/Los-Tralaleritos
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51062
+52701
 Successfully changed project path to: D:/ProyectoGitHub/Los-Tralaleritos/Los-Tralaleritos
 D:/ProyectoGitHub/Los-Tralaleritos/Los-Tralaleritos
 Using Asset Import Pipeline V2.
-Player connection [14760] Host "[IP] 192.168.13.53 [Port] 805524000 [Flags] 2 [Guid] 394943937 [EditorId] 394943937 [Version] 1048832 [Id] WindowsEditor(7,T104-15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [9568] Host "[IP] 192.168.13.53 [Port] 805524000 [Flags] 2 [Guid] 4253459004 [EditorId] 4253459004 [Version] 1048832 [Id] WindowsEditor(7,T104-15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [14760] Host "[IP] 192.168.13.53 [Port] 805524000 [Flags] 2 [Guid] 394943937 [EditorId] 394943937 [Version] 1048832 [Id] WindowsEditor(7,T104-15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [9568] Host "[IP] 192.168.13.53 [Port] 805524000 [Flags] 2 [Guid] 4253459004 [EditorId] 4253459004 [Version] 1048832 [Id] WindowsEditor(7,T104-15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 41.97 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 54.90 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.48f1 (b805b124c6b7)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.48f1/Editor/Data/Resources/UnitySubsystems
@@ -39,72 +39,72 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2020.3.48f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2020.3.48f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2020.3.48f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56452
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2020.3.48f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001897 seconds.
+Registered in 0.001889 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 38.95 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 52.91 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.580 seconds
+- Completed reload, in  0.590 seconds
 Domain Reload Profiling:
-	ReloadAssembly (581ms)
-		BeginReloadAssembly (68ms)
+	ReloadAssembly (590ms)
+		BeginReloadAssembly (64ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (439ms)
-			LoadAssemblies (66ms)
+		EndReloadAssembly (453ms)
+			LoadAssemblies (62ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (148ms)
+			SetupTypeCache (149ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (166ms)
+			SetupLoadedEditorAssemblies (177ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (39ms)
+				RefreshPlugins (53ms)
 				BeforeProcessingInitializeOnLoad (15ms)
-				ProcessInitializeOnLoadAttributes (79ms)
-				ProcessInitializeOnLoadMethodAttributes (27ms)
+				ProcessInitializeOnLoadAttributes (78ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002203 seconds.
+Registered in 0.002326 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 38.30 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 50.81 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.085 seconds
+- Completed reload, in  1.086 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1086ms)
-		BeginReloadAssembly (145ms)
+	ReloadAssembly (1087ms)
+		BeginReloadAssembly (143ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (880ms)
+		EndReloadAssembly (883ms)
 			LoadAssemblies (95ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (303ms)
+			SetupTypeCache (285ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (337ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (355ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (38ms)
-				BeforeProcessingInitializeOnLoad (78ms)
-				ProcessInitializeOnLoadAttributes (195ms)
+				RefreshPlugins (51ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (202ms)
 				ProcessInitializeOnLoadMethodAttributes (15ms)
 				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
@@ -114,14 +114,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2014 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2016 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 92.0 MB.
 System memory in use after: 92.0 MB.
 
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2448.
-Total: 2.787700 ms (FindLiveObjects: 0.142100 ms CreateObjectMapping: 0.072500 ms MarkObjects: 2.471800 ms  DeleteObjects: 0.100500 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2454.
+Total: 2.779700 ms (FindLiveObjects: 0.140100 ms CreateObjectMapping: 0.074500 ms MarkObjects: 2.502200 ms  DeleteObjects: 0.062300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -135,31 +135,25 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/02_Scripts
-  artifactKey: Guid(5325e29824529e6479a49d21338305b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/02_Scripts using Guid(5325e29824529e6479a49d21338305b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ddd82fcd08a57317680c773901d28de') in 0.013328 seconds 
+  path: Assets/Basurero 1.png
+  artifactKey: Guid(3be31eac568acf447b64306811b8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Basurero 1.png using Guid(3be31eac568acf447b64306811b8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e13179df3f1a8d28410a99f918435a') in 0.102884 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 235.855083 seconds.
-  path: Assets/04_Sprites/Enemies
-  artifactKey: Guid(42242a559b1b1c84ba7292b37b1b069e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/04_Sprites/Enemies using Guid(42242a559b1b1c84ba7292b37b1b069e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f073437a170a44bc76ee3a5ef790600') in 0.002888 seconds 
+  Time since last request: 0.000319 seconds.
+  path: Assets/Basurero.png
+  artifactKey: Guid(994439e18a22bce4fa8b82103a537cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Basurero.png using Guid(994439e18a22bce4fa8b82103a537cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa564cfef7aef1e2ab9a6196cc7b1b8') in 0.022593 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.074607 seconds.
-  path: Assets/04_Sprites/Enemies/dron volador.png
-  artifactKey: Guid(ff5c6aa59fa5bcf4586c3a2c647ea7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/04_Sprites/Enemies/dron volador.png using Guid(ff5c6aa59fa5bcf4586c3a2c647ea7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33896fd449b48f78b628cdef23ba56be') in 0.220969 seconds 
+  Time since last request: 0.285723 seconds.
+  path: Assets/01_Scenes
+  artifactKey: Guid(271bc0f736b744843b3b8c2bd42810b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_Scenes using Guid(271bc0f736b744843b3b8c2bd42810b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0367edfe0180abf01297b9c3cfed4e') in 0.010296 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000356 seconds.
-  path: Assets/04_Sprites/Enemies/RobotPolicial.png
-  artifactKey: Guid(b56cfe6bf793d074eaa0793d08c0026a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/04_Sprites/Enemies/RobotPolicial.png using Guid(b56cfe6bf793d074eaa0793d08c0026a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9593485df595d38b682f30ed34d473b5') in 0.070366 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/04_Sprites/Enemies/robot_normal.png
-  artifactKey: Guid(1808bb15a29a2eb4d992879e18666b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/04_Sprites/Enemies/robot_normal.png using Guid(1808bb15a29a2eb4d992879e18666b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb8a7161f70bc1499bc541bb529557e') in 0.052061 seconds 
+  Time since last request: 69.953665 seconds.
+  path: Assets/01_Scenes/El-Despertar.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_Scenes/El-Despertar.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ce6aed054e9830b277265caf86e684') in 0.011282 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
