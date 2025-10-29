@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: ecce758390a669046872388b6f038c7a
+  productGUID: 200df52c12e976e4e82b14f105c73502
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Start mechanics
+  productName: GameJam
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -654,11 +654,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 582e664b-4cf4-4b15-a632-d5b0428a7a5d
+  cloudProjectId: 3aa33bd5-a26c-4534-b55d-07a492dcc0f9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Start mechanics
-  organizationId: teju321
+  projectName: GameJam
+  organizationId: anthony22291
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
