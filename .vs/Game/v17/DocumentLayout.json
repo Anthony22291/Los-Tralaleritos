@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BiyteSmith\\Downloads\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\biytesmith\\downloads\\game\\assets\\02_scripts\\enemies\\enemyshootersniper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\enemyshootersniper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\enemies\\enemymelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\enemymelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\enemies\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\animals\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\animals\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\movimientotopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\movimientotopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyShooterSniper.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyShooterSniper.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\EnemyShooterSniper.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyShooterSniper.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Enemies\\EnemyShooterSniper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:14:58.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\PlayerAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:56:41.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyBase.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyBase.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\EnemyBase.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyBase.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Enemies\\EnemyBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:38:11.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:37:36.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\Bullet.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\Bullet.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Enemies\\Bullet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:33:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyMelee.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyMelee.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\EnemyMelee.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyMelee.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Enemies\\EnemyMelee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:33:51.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:46:42.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\animals\\AnimalController.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\animals\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\animals\\AnimalController.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\animals\\AnimalController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:45:56.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovimientoTopDown.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\MovimientoTopDown.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\MovimientoTopDown.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\MovimientoTopDown.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\MovimientoTopDown.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T17:45:44.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
