@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 354e9fe6e1ed21f43a42e937276882d6
+guid: f552b57f336056343b8c1ce34c58853d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4913862302307508488
-    second: SpriteJefe_4_1
+      213: 7630000511770479736
+    second: JefeArena_sprite4-1.png (1)_0
   - first:
-      213: 38750134687218554
-    second: SpriteJefe_4_8
+      213: 7178196944831932902
+    second: JefeArena_sprite4-1.png (1)_1
   - first:
-      213: 5314335201582496852
-    second: SpriteJefe_4_12
+      213: -4571440738124271411
+    second: JefeArena_sprite4-1.png (1)_2
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -101,13 +101,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpriteJefe_4_1
+      name: JefeArena_sprite4-1.png (1)_0
       rect:
         serializedVersion: 2
-        x: 565
-        y: 1307
-        width: 506
-        height: 599
+        x: 312
+        y: 402
+        width: 335
+        height: 375
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,20 +115,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 801e83caabb813440800000000000000
-      internalID: 4913862302307508488
+      spriteID: 87cc02c3a0533e960800000000000000
+      internalID: 7630000511770479736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteJefe_4_8
+      name: JefeArena_sprite4-1.png (1)_1
       rect:
         serializedVersion: 2
-        x: 525
-        y: 681
-        width: 595
-        height: 536
+        x: 702
+        y: 569
+        width: 340
+        height: 339
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,20 +136,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7bb70dca0ba98000800000000000000
-      internalID: 38750134687218554
+      spriteID: 6e96080f6141e9360800000000000000
+      internalID: 7178196944831932902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpriteJefe_4_12
+      name: JefeArena_sprite4-1.png (1)_2
       rect:
         serializedVersion: 2
-        x: 57
-        y: 350
-        width: 5
-        height: 11
+        x: 393
+        y: 26
+        width: 305
+        height: 305
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,8 +157,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45cbda395bf40c940800000000000000
-      internalID: 5314335201582496852
+      spriteID: dc07a548edafe80c0800000000000000
+      internalID: -4571440738124271411
       vertices: []
       indices: 
       edges: []
