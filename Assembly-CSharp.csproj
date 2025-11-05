@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}</ProjectGuid>
+    <ProjectGuid>{C77CF19C-1092-456E-FA99-D422AF743FA5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,22 +58,51 @@
   <ItemGroup>
     <Compile Include="Assets\02_Scripts\Enemies\Bullet.cs" />
     <Compile Include="Assets\02_Scripts\Enemies\EnemyMelee.cs" />
+    <Compile Include="Assets\cables\RandomizarCables.cs" />
     <Compile Include="Assets\02_Scripts\PlayerAttack.cs" />
     <Compile Include="Assets\02_Scripts\MovimientoTopDown.cs" />
+    <Compile Include="Assets\02_Scripts\Enemies\EnemyTorreta.cs" />
     <Compile Include="Assets\02_Scripts\animals\AnimalController.cs" />
     <Compile Include="Assets\02_Scripts\Player\PlayerEnergy.cs" />
     <Compile Include="Assets\02_Scripts\PlayerController.cs" />
     <Compile Include="Assets\02_Scripts\Enemies\EnemyShooterSniper.cs" />
+    <Compile Include="Assets\02_Scripts\Player Horizontal\PlayerMovementH.cs" />
     <Compile Include="Assets\02_Scripts\Player\EnergySource.cs" />
     <Compile Include="Assets\02_Scripts\Player\EnergyDoor.cs" />
     <Compile Include="Assets\02_Scripts\Player\PlayerHealth.cs" />
-    <Compile Include="Assets\02_Scripts\Enemies\EnemyBase.cs" />
-    <Compile Include="Assets\cables\RandomizarCables.cs" />
     <Compile Include="Assets\cables\TareaCables.cs" />
     <Compile Include="Assets\cables\Cable.cs" />
-    <Compile Include="Assets\02_Scripts\Player Horizontal\PlayerMovementH.cs" />
+    <Compile Include="Assets\02_Scripts\Enemies\EnemyBase.cs" />
     <Compile Include="Assets\02_Scripts\Player Horizontal\CameraFollow.cs" />
-    <Compile Include="Assets\02_Scripts\Enemies\EnemyTorreta.cs" />
+    <Compile Include="Assets\02_Scripts\Boss\BossHealth.cs" />
+    <Compile Include="Assets\02_Scripts\Boss\TreeRegen.cs" />
+    <Compile Include="Assets\02_Scripts\Boss\BossController.cs" />
+    <Compile Include="Assets\02_Scripts\Boss\TempAttackHitbox.cs" />
+    <Compile Include="Assets\02_Scripts\Boss\BossActivator.cs" />
+    <Compile Include="Assets\02_Scripts\Boss\BossHealthBarUI.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\cables\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\cables\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

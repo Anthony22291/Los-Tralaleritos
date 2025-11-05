@@ -27,22 +27,42 @@ public class PlayerAttack : MonoBehaviour
     {
         Debug.Log("🪓 Golpe con tubo!");
 
-        // Detección de enemigos cercanos
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange);
 
         foreach (Collider2D enemy in hitEnemies)
         {
             if (enemy.CompareTag("Enemy"))
             {
+                // Intenta con EnemyBase
                 EnemyBase enemyBase = enemy.GetComponent<EnemyBase>();
                 if (enemyBase != null)
                 {
                     enemyBase.TakeDamage(damage);
                     Debug.Log($"Golpeó a {enemy.name}, daño: {damage}");
+                    continue;
+                }
+
+                // Intenta con BossHealth
+                BossHealth bossHealth = enemy.GetComponent<BossHealth>();
+                if (bossHealth != null)
+                {
+                    bossHealth.TakeDamage(damage);
+                    Debug.Log($"Golpeó al Boss {enemy.name}, daño: {damage}");
+                    continue;
+                }
+
+                // Intenta con TreeRegen (NUEVO)
+                TreeRegen tree = enemy.GetComponent<TreeRegen>();
+                if (tree != null)
+                {
+                    tree.TakeDamage(damage);
+                    Debug.Log($"Golpeó al árbol {enemy.name}, daño: {damage}");
                 }
             }
         }
     }
+
+
 
     void OnDrawGizmosSelected()
     {

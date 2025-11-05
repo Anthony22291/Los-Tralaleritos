@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\assets\\02_scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\assets\\02_scripts\\player\\playerenergy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\player\\playerenergy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\assets\\02_scripts\\boss\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\boss\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|c:\\users\\usuario\\onedrive\\desktop\\los-tralaleritos-avancefinal\\assets\\02_scripts\\boss\\bosshealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\boss\\bosshealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|c:\\users\\usuario\\onedrive\\desktop\\los-tralaleritos-avancefinal\\assets\\02_scripts\\boss\\bosshealthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\boss\\bosshealthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|c:\\users\\usuario\\onedrive\\desktop\\los-tralaleritos-avancefinal\\assets\\02_scripts\\boss\\treeregen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\boss\\treeregen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|c:\\users\\usuario\\onedrive\\desktop\\los-tralaleritos-avancefinal\\assets\\02_scripts\\boss\\bossactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\boss\\bossactivator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\assets\\02_scripts\\boss\\tempattackhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\boss\\tempattackhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\assets\\02_scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\assets\\02_scripts\\movimientotopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77CF19C-1092-456E-FA99-D422AF743FA5}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\movimientotopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreeRegen.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\TreeRegen.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Boss\\TreeRegen.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\TreeRegen.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Boss\\TreeRegen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:25:17.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BossHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\BossHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Boss\\BossHealth.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\BossHealth.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Boss\\BossHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:57:37.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BossHealthBarUI.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\BossHealthBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Boss\\BossHealthBarUI.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\BossHealthBarUI.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Boss\\BossHealthBarUI.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:57:11.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BossActivator.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\BossActivator.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Boss\\BossActivator.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\BossActivator.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Boss\\BossActivator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:45:43.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TempAttackHitbox.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\TempAttackHitbox.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Boss\\TempAttackHitbox.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\TempAttackHitbox.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Boss\\TempAttackHitbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:39:53.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Boss\\BossController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Boss\\BossController.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Boss\\BossController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:38:47.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerEnergy.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Player\\PlayerEnergy.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Player\\PlayerEnergy.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Player\\PlayerEnergy.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Player\\PlayerEnergy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:32:23.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:32:05.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\PlayerAttack.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:30:33.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovimientoTopDown.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\MovimientoTopDown.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\MovimientoTopDown.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Los-Tralaleritos-AvanceFinal\\Assets\\02_Scripts\\MovimientoTopDown.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\MovimientoTopDown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:30:24.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
