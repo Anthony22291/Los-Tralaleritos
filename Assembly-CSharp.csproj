@@ -68,6 +68,12 @@
     <Compile Include="Assets\02_Scripts\Player\EnergyDoor.cs" />
     <Compile Include="Assets\02_Scripts\Player\PlayerHealth.cs" />
     <Compile Include="Assets\02_Scripts\Enemies\EnemyBase.cs" />
+    <Compile Include="Assets\cables\RandomizarCables.cs" />
+    <Compile Include="Assets\cables\TareaCables.cs" />
+    <Compile Include="Assets\cables\Cable.cs" />
+    <Compile Include="Assets\02_Scripts\Player Horizontal\PlayerMovementH.cs" />
+    <Compile Include="Assets\02_Scripts\Player Horizontal\CameraFollow.cs" />
+    <Compile Include="Assets\02_Scripts\Enemies\EnemyTorreta.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

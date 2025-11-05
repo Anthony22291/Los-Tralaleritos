@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\BiyteSmith\\Downloads\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\biytesmith\\downloads\\game\\assets\\02_scripts\\enemies\\enemyshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\enemyshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\biytesmith\\downloads\\game\\assets\\02_scripts\\enemies\\enemytorreta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\enemytorreta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\enemies\\enemyshootersniper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\enemyshootersniper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\biytesmith\\downloads\\game\\assets\\02_scripts\\player horizontal\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\player horizontal\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\player horizontal\\playermovementh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\player horizontal\\playermovementh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\movimientotopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\movimientotopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\animals\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\animals\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\enemies\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,22 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\enemies\\enemymelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\enemymelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\enemies\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\enemies\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\animals\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\animals\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\movimientotopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\movimientotopdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\BiyteSmith\\Downloads\\Game\\assets\\02_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +58,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyTorreta.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyTorreta.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\EnemyTorreta.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyTorreta.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Enemies\\EnemyTorreta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:42:24.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Player Horizontal\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Player Horizontal\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Player Horizontal\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Player Horizontal\\CameraFollow.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:26:08.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovementH.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Player Horizontal\\PlayerMovementH.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Player Horizontal\\PlayerMovementH.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Player Horizontal\\PlayerMovementH.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Player Horizontal\\PlayerMovementH.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:07:24.345Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EnemyShooterSniper.cs",
+              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyShooterSniper.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\EnemyShooterSniper.cs",
+              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyShooterSniper.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Enemies\\EnemyShooterSniper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:14:58.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\02_Scripts\\PlayerAttack.cs",
@@ -62,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "EnemyBase.cs",
               "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyBase.cs",
               "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\EnemyBase.cs",
@@ -74,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Player\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\02_Scripts\\Player\\PlayerHealth.cs",
@@ -86,19 +149,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\Bullet.cs",
               "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\Bullet.cs",
               "RelativeToolTip": "Assets\\02_Scripts\\Enemies\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T01:33:58.635Z"
+              "WhenOpened": "2025-10-27T01:33:58.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "EnemyMelee.cs",
               "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyMelee.cs",
               "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\EnemyMelee.cs",
@@ -110,20 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnemyShooter.cs",
-              "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyShooter.cs",
-              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Enemies\\EnemyShooter.cs",
-              "ToolTip": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\Enemies\\EnemyShooter.cs",
-              "RelativeToolTip": "Assets\\02_Scripts\\Enemies\\EnemyShooter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T01:33:49.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\02_Scripts\\PlayerController.cs",
@@ -135,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AnimalController.cs",
               "DocumentMoniker": "C:\\Users\\BiyteSmith\\Downloads\\Game\\Assets\\02_Scripts\\animals\\AnimalController.cs",
               "RelativeDocumentMoniker": "Assets\\02_Scripts\\animals\\AnimalController.cs",

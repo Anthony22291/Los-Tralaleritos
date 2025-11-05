@@ -1,0 +1,3973 @@
+fileFormatVersion: 2
+guid: 0461b2003b5b25f42b7a7bd9c2506c83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4321072576386586608
+    second: Escalera_0
+  - first:
+      213: 6704547761306773299
+    second: Escalera_1
+  - first:
+      213: -5507759922478267101
+    second: Escalera_2
+  - first:
+      213: -4417272219906789886
+    second: Escalera_3
+  - first:
+      213: -1085503952958225813
+    second: Escalera_4
+  - first:
+      213: 1822427597367593154
+    second: Escalera_5
+  - first:
+      213: 2620171430553514506
+    second: Escalera_6
+  - first:
+      213: 5108933767643976649
+    second: Escalera_7
+  - first:
+      213: -8566429934923057448
+    second: Escalera_8
+  - first:
+      213: -9019814897968962352
+    second: Escalera_9
+  - first:
+      213: 4090370048195913522
+    second: Escalera_10
+  - first:
+      213: -412016686755307952
+    second: Escalera_11
+  - first:
+      213: -5494908433847098421
+    second: Escalera_12
+  - first:
+      213: 8490326938509958460
+    second: Escalera_13
+  - first:
+      213: 7443114330708552849
+    second: Escalera_14
+  - first:
+      213: 2611984074173707536
+    second: Escalera_15
+  - first:
+      213: 6594262288380047641
+    second: Escalera_16
+  - first:
+      213: -4932842745414358510
+    second: Escalera_17
+  - first:
+      213: 2456156927026970186
+    second: Escalera_18
+  - first:
+      213: 5989472236004849052
+    second: Escalera_19
+  - first:
+      213: 6310429484613742546
+    second: Escalera_20
+  - first:
+      213: 4226400352921545347
+    second: Escalera_21
+  - first:
+      213: -5107195713256285202
+    second: Escalera_22
+  - first:
+      213: 2544252220620105504
+    second: Escalera_23
+  - first:
+      213: 2764311616286129900
+    second: Escalera_24
+  - first:
+      213: -1269541264344106377
+    second: Escalera_25
+  - first:
+      213: -6123172664124663917
+    second: Escalera_26
+  - first:
+      213: 3381268766500387059
+    second: Escalera_27
+  - first:
+      213: 8490410211851907442
+    second: Escalera_28
+  - first:
+      213: 7224921516996606630
+    second: Escalera_29
+  - first:
+      213: -2832482736707360756
+    second: Escalera_30
+  - first:
+      213: 3443453673519008256
+    second: Escalera_31
+  - first:
+      213: 5523213146937957825
+    second: Escalera_32
+  - first:
+      213: 2087549498038176251
+    second: Escalera_33
+  - first:
+      213: -5247919759375750088
+    second: Escalera_34
+  - first:
+      213: 7086923968990682598
+    second: Escalera_35
+  - first:
+      213: 7467421188525976004
+    second: Escalera_36
+  - first:
+      213: -2398464786979893360
+    second: Escalera_37
+  - first:
+      213: 2651589436474437639
+    second: Escalera_38
+  - first:
+      213: 6176308869985822204
+    second: Escalera_39
+  - first:
+      213: 8571343328360518537
+    second: Escalera_40
+  - first:
+      213: 7364759223975787961
+    second: Escalera_41
+  - first:
+      213: 3723215137320691186
+    second: Escalera_42
+  - first:
+      213: 6908393701546773419
+    second: Escalera_43
+  - first:
+      213: -2442931718180056166
+    second: Escalera_44
+  - first:
+      213: 6858939459601488266
+    second: Escalera_45
+  - first:
+      213: 416155517041975988
+    second: Escalera_46
+  - first:
+      213: -3805253686762522721
+    second: Escalera_47
+  - first:
+      213: 6799845604803513983
+    second: Escalera_48
+  - first:
+      213: -8186573327717643284
+    second: Escalera_49
+  - first:
+      213: 1481798008178933562
+    second: Escalera_50
+  - first:
+      213: -2203387045264837902
+    second: Escalera_51
+  - first:
+      213: -4551403980159575672
+    second: Escalera_52
+  - first:
+      213: 6202048282837617192
+    second: Escalera_53
+  - first:
+      213: 4017058660612420591
+    second: Escalera_54
+  - first:
+      213: 2333552813982216035
+    second: Escalera_55
+  - first:
+      213: 9117622364375470638
+    second: Escalera_56
+  - first:
+      213: -2287473426253624278
+    second: Escalera_57
+  - first:
+      213: 8250853382831197326
+    second: Escalera_58
+  - first:
+      213: -4177387747462675058
+    second: Escalera_59
+  - first:
+      213: 6759685896766589218
+    second: Escalera_60
+  - first:
+      213: 6265675260914271091
+    second: Escalera_61
+  - first:
+      213: -2897445043509183010
+    second: Escalera_62
+  - first:
+      213: -6223878691873942730
+    second: Escalera_63
+  - first:
+      213: -4250945310641448939
+    second: Escalera_64
+  - first:
+      213: -5970566212970403155
+    second: Escalera_65
+  - first:
+      213: 809856332586968956
+    second: Escalera_66
+  - first:
+      213: -4549696679812360904
+    second: Escalera_67
+  - first:
+      213: -6164527013433326368
+    second: Escalera_68
+  - first:
+      213: 2894567305806641368
+    second: Escalera_69
+  - first:
+      213: 1343744486561441890
+    second: Escalera_70
+  - first:
+      213: -4201479072456048869
+    second: Escalera_71
+  - first:
+      213: -4654910788449839746
+    second: Escalera_72
+  - first:
+      213: -4921081565849988363
+    second: Escalera_73
+  - first:
+      213: -693561485154235115
+    second: Escalera_74
+  - first:
+      213: 2213051588697718736
+    second: Escalera_75
+  - first:
+      213: -8208815436921990722
+    second: Escalera_76
+  - first:
+      213: 9014480535065768310
+    second: Escalera_77
+  - first:
+      213: 4989165322774561586
+    second: Escalera_78
+  - first:
+      213: -317073799449944296
+    second: Escalera_79
+  - first:
+      213: -5433938238915530128
+    second: Escalera_80
+  - first:
+      213: 7087166264823500783
+    second: Escalera_81
+  - first:
+      213: -6517867412767563880
+    second: Escalera_82
+  - first:
+      213: 4338429268049859221
+    second: Escalera_83
+  - first:
+      213: -3245318973313711948
+    second: Escalera_84
+  - first:
+      213: -9014449849652552799
+    second: Escalera_85
+  - first:
+      213: -7057883865320118372
+    second: Escalera_86
+  - first:
+      213: -7793279596685171606
+    second: Escalera_87
+  - first:
+      213: -460668574853160871
+    second: Escalera_88
+  - first:
+      213: 3775044214635642813
+    second: Escalera_89
+  - first:
+      213: 1782471873851062653
+    second: Escalera_90
+  - first:
+      213: 798995478093833165
+    second: Escalera_91
+  - first:
+      213: 8938169640511628682
+    second: Escalera_92
+  - first:
+      213: 4793685059529173623
+    second: Escalera_93
+  - first:
+      213: -7699770502455537448
+    second: Escalera_94
+  - first:
+      213: 4656619380070435033
+    second: Escalera_95
+  - first:
+      213: 6984644387184329388
+    second: Escalera_96
+  - first:
+      213: -4535061758427813859
+    second: Escalera_97
+  - first:
+      213: -4356363773442322772
+    second: Escalera_98
+  - first:
+      213: 693865388527617744
+    second: Escalera_99
+  - first:
+      213: -3245570944413297631
+    second: Escalera_100
+  - first:
+      213: -9014677024439756434
+    second: Escalera_101
+  - first:
+      213: 8076884431085300034
+    second: Escalera_102
+  - first:
+      213: -6982703716601200067
+    second: Escalera_103
+  - first:
+      213: 7511704457317074250
+    second: Escalera_104
+  - first:
+      213: 4884302004276827244
+    second: Escalera_105
+  - first:
+      213: -3034676556764149681
+    second: Escalera_106
+  - first:
+      213: 7386285848620981872
+    second: Escalera_107
+  - first:
+      213: -2134272806672378935
+    second: Escalera_108
+  - first:
+      213: -2438169579380891924
+    second: Escalera_109
+  - first:
+      213: -5884861033886188579
+    second: Escalera_110
+  - first:
+      213: -44512196521269296
+    second: Escalera_111
+  - first:
+      213: 7654119535928362262
+    second: Escalera_112
+  - first:
+      213: -649040772886322721
+    second: Escalera_113
+  - first:
+      213: -1149874742860647671
+    second: Escalera_114
+  - first:
+      213: 4346357930550711946
+    second: Escalera_115
+  - first:
+      213: 8761530743636174865
+    second: Escalera_116
+  - first:
+      213: -2522580655988446048
+    second: Escalera_117
+  - first:
+      213: -250905990848753228
+    second: Escalera_118
+  - first:
+      213: -8926737940792668393
+    second: Escalera_119
+  - first:
+      213: -1993657103729287284
+    second: Escalera_120
+  - first:
+      213: -8494588831705303658
+    second: Escalera_121
+  - first:
+      213: -3874124385360029325
+    second: Escalera_122
+  - first:
+      213: 1042569311527420062
+    second: Escalera_123
+  - first:
+      213: -294056776227028014
+    second: Escalera_124
+  - first:
+      213: 5810184285734996824
+    second: Escalera_125
+  - first:
+      213: 5781753561297426982
+    second: Escalera_126
+  - first:
+      213: 3639172826264772764
+    second: Escalera_127
+  - first:
+      213: -8395861486986996900
+    second: Escalera_128
+  - first:
+      213: 2083591054230998376
+    second: Escalera_129
+  - first:
+      213: 8098970479865763764
+    second: Escalera_130
+  - first:
+      213: 5532496891490204151
+    second: Escalera_131
+  - first:
+      213: 2344689136443422910
+    second: Escalera_132
+  - first:
+      213: -8082453312594151380
+    second: Escalera_133
+  - first:
+      213: 4072999004947236932
+    second: Escalera_134
+  - first:
+      213: 7498479587717506677
+    second: Escalera_135
+  - first:
+      213: 1695030068154166733
+    second: Escalera_136
+  - first:
+      213: 5334320044479886422
+    second: Escalera_137
+  - first:
+      213: -5799761061334615239
+    second: Escalera_138
+  - first:
+      213: 3055267321579794524
+    second: Escalera_139
+  - first:
+      213: -6053357201233848332
+    second: Escalera_140
+  - first:
+      213: 519098778288290474
+    second: Escalera_141
+  - first:
+      213: 984325205250394756
+    second: Escalera_142
+  - first:
+      213: -3780084407476543200
+    second: Escalera_143
+  - first:
+      213: -8516997637266793031
+    second: Escalera_144
+  - first:
+      213: -1029525871012015420
+    second: Escalera_145
+  - first:
+      213: -7376936489241743276
+    second: Escalera_146
+  - first:
+      213: 7832886289681327548
+    second: Escalera_147
+  - first:
+      213: -5281403441500829242
+    second: Escalera_148
+  - first:
+      213: -7627174846432284406
+    second: Escalera_149
+  - first:
+      213: -1055924482860382516
+    second: Escalera_150
+  - first:
+      213: -4441031705704902883
+    second: Escalera_151
+  - first:
+      213: 110164987662128721
+    second: Escalera_152
+  - first:
+      213: 6067254930239592346
+    second: Escalera_153
+  - first:
+      213: 2438537619373392791
+    second: Escalera_154
+  - first:
+      213: 2707584766444856957
+    second: Escalera_155
+  - first:
+      213: -1058799876428349214
+    second: Escalera_156
+  - first:
+      213: -7828114276779174338
+    second: Escalera_157
+  - first:
+      213: 4229534785500188861
+    second: Escalera_158
+  - first:
+      213: 7412875723192037084
+    second: Escalera_159
+  - first:
+      213: 2731656900726432284
+    second: Escalera_160
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Escalera_0
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7543c3d9887fb30800000000000000
+      internalID: 4321072576386586608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_1
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a45caaa65b0d50800000000000000
+      internalID: 6704547761306773299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325cc8828818093b0800000000000000
+      internalID: -5507759922478267101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_3
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e2148d152b2b2c0800000000000000
+      internalID: -4417272219906789886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6284a1f7e38fe0f0800000000000000
+      internalID: -1085503952958225813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_5
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8c6f18e309a4910800000000000000
+      internalID: 1822427597367593154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f4c8a808bc5420800000000000000
+      internalID: 2620171430553514506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_7
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3da61813496e640800000000000000
+      internalID: 5108933767643976649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d673af6c5ded1980800000000000000
+      internalID: -8566429934923057448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_9
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 540
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a8caa32e23d280800000000000000
+      internalID: -9019814897968962352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2376d9a13e9e3c830800000000000000
+      internalID: 4090370048195913522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e9a60a109384af0800000000000000
+      internalID: -412016686755307952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_12
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ee3784e92eb3b0800000000000000
+      internalID: -5494908433847098421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dd0dced53b3d570800000000000000
+      internalID: 8490326938509958460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_14
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ca0886c014b4760800000000000000
+      internalID: 7443114330708552849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015f9143da1af3420800000000000000
+      internalID: 2611984074173707536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_16
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911b5a60d96838b50800000000000000
+      internalID: 6594262288380047641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ae6ba88a50b8bb0800000000000000
+      internalID: -4932842745414358510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_18
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ebe0c36b5061220800000000000000
+      internalID: 2456156927026970186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_19
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95322bd341ee1350800000000000000
+      internalID: 5989472236004849052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_20
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 507
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfad82ae26239750800000000000000
+      internalID: 6310429484613742546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_21
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a69728ab037aa30800000000000000
+      internalID: 4226400352921545347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_22
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb16f0de889f19b0800000000000000
+      internalID: -5107195713256285202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0276f052aeffe4320800000000000000
+      internalID: 2544252220620105504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_24
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee7831e4cecc5620800000000000000
+      internalID: 2764311616286129900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_25
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ab11742fea16ee0800000000000000
+      internalID: -1269541264344106377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_26
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397977867ee160ba0800000000000000
+      internalID: -6123172664124663917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_27
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8f065470eacee20800000000000000
+      internalID: 3381268766500387059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_28
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27138c28a1ff3d570800000000000000
+      internalID: 8490410211851907442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_29
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab8a627d3144460800000000000000
+      internalID: 7224921516996606630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a12645fff0b8d0800000000000000
+      internalID: -2832482736707360756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_31
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4d923fda99cf20800000000000000
+      internalID: 3443453673519008256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_32
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd110a081566ac40800000000000000
+      internalID: 5523213146937957825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf94c99453778fc10800000000000000
+      internalID: 2087549498038176251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_34
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ca7a498c4ab27b0800000000000000
+      internalID: -5247919759375750088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_35
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed14e93dcfc95260800000000000000
+      internalID: 7086923968990682598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_36
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9e052c10c91a760800000000000000
+      internalID: 7467421188525976004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_37
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fc7cddbf0f6bed0800000000000000
+      internalID: -2398464786979893360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_38
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700bc333b865cc420800000000000000
+      internalID: 2651589436474437639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_39
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5699a9138a6b550800000000000000
+      internalID: 6176308869985822204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_40
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983d7de185783f670800000000000000
+      internalID: 8571343328360518537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_41
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdbb597e71e43660800000000000000
+      internalID: 7364759223975787961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_42
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f56b52e0748ba330800000000000000
+      internalID: 3723215137320691186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_43
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babcd35287b8fdf50800000000000000
+      internalID: 6908393701546773419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_44
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d757ab86f81ed0800000000000000
+      internalID: -2442931718180056166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_45
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d4792919df2f50800000000000000
+      internalID: 6858939459601488266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_46
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b22b94ec3b76c500800000000000000
+      internalID: 416155517041975988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_47
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973648dee5013bc0800000000000000
+      internalID: -3805253686762522721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_48
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e80d9ec87ed5e50800000000000000
+      internalID: 6799845604803513983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_49
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc3b9cee2736e80800000000000000
+      internalID: -8186573327717643284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_50
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ff2620077609410800000000000000
+      internalID: 1481798008178933562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_51
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ba48082ffb61e0800000000000000
+      internalID: -2203387045264837902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_52
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8891a45c13a26d0c0800000000000000
+      internalID: -4551403980159575672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_53
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a8b5aad0a121650800000000000000
+      internalID: 6202048282837617192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_54
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b5bb81957fb730800000000000000
+      internalID: 4017058660612420591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_55
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fe50eabe1726020800000000000000
+      internalID: 2333552813982216035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_56
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d1c0bb3d488e70800000000000000
+      internalID: 9117622364375470638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_57
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc103d9034140e0800000000000000
+      internalID: -2287473426253624278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_58
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ccb71df6be08270800000000000000
+      internalID: 8250853382831197326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_59
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850b67f9ffe606c0800000000000000
+      internalID: -4177387747462675058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_60
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2298dfd328a3fcd50800000000000000
+      internalID: 6759685896766589218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_61
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3738fbce37624f650800000000000000
+      internalID: 6265675260914271091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_62
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd3b6195153ac7d0800000000000000
+      internalID: -2897445043509183010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_63
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6331bb52e4750a9a0800000000000000
+      internalID: -6223878691873942730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_64
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5189a9f23cb9105c0800000000000000
+      internalID: -4250945310641448939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_65
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa23f7a9a9442da0800000000000000
+      internalID: -5970566212970403155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_66
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7762fe2b003d3b00800000000000000
+      internalID: 809856332586968956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_67
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835920c99fa3cd0c0800000000000000
+      internalID: -4549696679812360904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_68
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4c104a753337aa0800000000000000
+      internalID: -6164527013433326368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_69
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d87019e0a19b2820800000000000000
+      internalID: 2894567305806641368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_70
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2686266bd70f5a210800000000000000
+      internalID: 1343744486561441890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_71
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff4034b0951b5c0800000000000000
+      internalID: -4201479072456048869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_72
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e755059fc4f666fb0800000000000000
+      internalID: -4654910788449839746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_73
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2d9cc836ec4bbb0800000000000000
+      internalID: -4921081565849988363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_74
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d4d7ff089ff56f0800000000000000
+      internalID: -693561485154235115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_75
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dff0f5d1b656be10800000000000000
+      internalID: 2213051588697718736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_76
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1958f2add641e80800000000000000
+      internalID: -8208815436921990722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_77
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671b44f294ed91d70800000000000000
+      internalID: 9014480535065768310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_78
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233cca56d631d3540800000000000000
+      internalID: 4989165322774561586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_79
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fd3303f07899bf0800000000000000
+      internalID: -317073799449944296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_80
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072370246f5c694b0800000000000000
+      internalID: -5433938238915530128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_81
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 342
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefcfee1b2caa5260800000000000000
+      internalID: 7087166264823500783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_82
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f15e80f12eb85a0800000000000000
+      internalID: -6517867412767563880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_83
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592154dee62353c30800000000000000
+      internalID: 4338429268049859221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_84
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b00dc4969f46f2d0800000000000000
+      internalID: -3245318973313711948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_85
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abd2e15f9d36e280800000000000000
+      internalID: -9014449849652552799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_86
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9722adc40c5d0e90800000000000000
+      internalID: -7057883865320118372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_87
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64e7445f75b8d390800000000000000
+      internalID: -7793279596685171606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_88
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95021b43f506b99f0800000000000000
+      internalID: -460668574853160871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_89
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf30c056b6a36430800000000000000
+      internalID: 3775044214635642813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_90
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79740fa9bc9cb810800000000000000
+      internalID: 1782471873851062653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_91
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 309
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32de0772a961b00800000000000000
+      internalID: 798995478093833165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_92
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8560ec7ee1ca0c70800000000000000
+      internalID: 8938169640511628682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_93
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a6552e927968240800000000000000
+      internalID: 4793685059529173623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_94
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05b1de58be42590800000000000000
+      internalID: -7699770502455537448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_95
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d84c4387a2af9040800000000000000
+      internalID: 4656619380070435033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_96
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca24c8c50117ee060800000000000000
+      internalID: 6984644387184329388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_97
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a376cb593011c0800000000000000
+      internalID: -4535061758427813859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_98
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae0793aa361b83c0800000000000000
+      internalID: -4356363773442322772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_99
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6802505ea11a900800000000000000
+      internalID: 693865388527617744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_100
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1249aecfb6a65f2d0800000000000000
+      internalID: -3245570944413297631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_101
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699461120f65e280800000000000000
+      internalID: -9014677024439756434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_102
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249e8bec89bd61070800000000000000
+      internalID: 8076884431085300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_103
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d328f2837f3781f90800000000000000
+      internalID: -6982703716601200067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_104
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a454a1cb76fee3860800000000000000
+      internalID: 7511704457317074250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_105
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6416a47bc688c340800000000000000
+      internalID: 4884302004276827244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_106
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f480ed100c9a2e5d0800000000000000
+      internalID: -3034676556764149681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_107
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e5c8858db518660800000000000000
+      internalID: 7386285848620981872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_108
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c35480b03a8162e0800000000000000
+      internalID: -2134272806672378935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_109
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee96de7fa1e92ed0800000000000000
+      internalID: -2438169579380891924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_110
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbfcaaa116c45ea0800000000000000
+      internalID: -5884861033886188579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_111
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d76d22a46cd16ff0800000000000000
+      internalID: -44512196521269296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_112
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61543672a25e83a60800000000000000
+      internalID: 7654119535928362262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_113
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ad571bd42ef6f0800000000000000
+      internalID: -649040772886322721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_114
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903f89f7303da00f0800000000000000
+      internalID: -1149874742860647671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_115
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a865d25828d515c30800000000000000
+      internalID: 4346357930550711946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_116
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118291f6ac5379970800000000000000
+      internalID: 8761530743636174865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_117
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac6982324efdfcd0800000000000000
+      internalID: -2522580655988446048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_118
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15177a45a948cf0800000000000000
+      internalID: -250905990848753228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_119
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0d04832bdd1480800000000000000
+      internalID: -8926737940792668393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_120
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f18405d6b1554e0800000000000000
+      internalID: -1993657103729287284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_121
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695743db6782d1a80800000000000000
+      internalID: -8494588831705303658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_122
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379dfe2c5685c3ac0800000000000000
+      internalID: -3874124385360029325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_123
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c05bd343f77e00800000000000000
+      internalID: 1042569311527420062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_124
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d301358bec4bebf0800000000000000
+      internalID: -294056776227028014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_125
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b8acef2dbe1a050800000000000000
+      internalID: 5810184285734996824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_126
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a9bff1b3aec3050800000000000000
+      internalID: 5781753561297426982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_127
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9024c18760f08230800000000000000
+      internalID: 3639172826264772764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_128
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53d1c4f578eb7b80800000000000000
+      internalID: -8395861486986996900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_129
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dce9446076aec10800000000000000
+      internalID: 2083591054230998376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b716c2cdb2556070800000000000000
+      internalID: 8098970479865763764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_131
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f9324c9067cc40800000000000000
+      internalID: 5532496891490204151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_132
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87d6ec8520a8020800000000000000
+      internalID: 2344689136443422910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_133
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28752de88b55df80800000000000000
+      internalID: -8082453312594151380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_134
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448466ce303368830800000000000000
+      internalID: 4072999004947236932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_135
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5766b65d473ff0860800000000000000
+      internalID: 7498479587717506677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_136
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd6fe7cdd4f58710800000000000000
+      internalID: 1695030068154166733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_137
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654387961df470a40800000000000000
+      internalID: 5334320044479886422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_138
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bf10d0b0c138fa0800000000000000
+      internalID: -5799761061334615239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c507f94017d766a20800000000000000
+      internalID: 3055267321579794524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_140
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f757e192b72efba0800000000000000
+      internalID: -6053357201233848332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_141
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa763ba695343700800000000000000
+      internalID: 519098778288290474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_142
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ac96a1f8609ad00800000000000000
+      internalID: 984325205250394756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_143
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0212e5752417a8bc0800000000000000
+      internalID: -3780084407476543200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_144
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd1fdd16cb8dc980800000000000000
+      internalID: -8516997637266793031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_145
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2114bcca366b1f0800000000000000
+      internalID: -1029525871012015420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_146
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450f024095bdf9990800000000000000
+      internalID: -7376936489241743276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_147
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ab7e749004bc60800000000000000
+      internalID: 7832886289681327548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_148
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c941d15d8fa4b6b0800000000000000
+      internalID: -5281403441500829242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_149
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01fb9e33e4d62690800000000000000
+      internalID: -7627174846432284406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_150
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60871074a9851f0800000000000000
+      internalID: -1055924482860382516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_151
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f463971394e52c0800000000000000
+      internalID: -4441031705704902883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_152
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156594cf872678100800000000000000
+      internalID: 110164987662128721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_153
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971bae9638333450800000000000000
+      internalID: 6067254930239592346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_154
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938d2e7b0d67d120800000000000000
+      internalID: 2438537619373392791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_155
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76643beff5439520800000000000000
+      internalID: 2707584766444856957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_156
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c2454f136e41f0800000000000000
+      internalID: -1058799876428349214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_157
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36d9675a83fc5390800000000000000
+      internalID: -7828114276779174338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_158
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db095e67a7352ba30800000000000000
+      internalID: 4229534785500188861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_159
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde6af4f133dfd660800000000000000
+      internalID: 7412875723192037084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_160
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 78
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122b007a7bc8e520800000000000000
+      internalID: 2731656900726432284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
